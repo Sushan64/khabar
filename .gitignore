@@ -1,0 +1,16 @@
+# Python (server)
+__pycache__/
+*.pyc
+*.sqlite3
+*.db
+venv/
+.env
+
+# Node/TypeScript (client)
+node_modules/
+dist/
+.next/
+*.log
+
+# General
+.DS_Store
